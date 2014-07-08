@@ -1,0 +1,6 @@
+*.suo
+MeteorDDP/Net.DDP.Client/bin/
+MeteorDDP/Net.DDP.Client/obj/
+packages/
+MeteorDDP/obj/
+MeteorDDP/bin/
