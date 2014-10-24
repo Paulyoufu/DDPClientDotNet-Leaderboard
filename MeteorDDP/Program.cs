@@ -16,7 +16,7 @@ namespace MeteorDDP
 			while (true)
 			{
 				Console.ReadLine();
-				client.Call("updatePerson", "F9u3GymH9ad4gFXQT");	// id of "Claude Shannon"
+				client.Call("updatePerson", "yzzXrXXrb6Cxu95pg");	// id of "Claude Shannon"
 			}
 		}
 
